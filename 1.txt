@@ -1,9 +1,4 @@
-c = 5
-cc == 55sadfsadf
-bb = 66
-sdfgdfsggfgfdgggdfsdsfgsdgfd
-asdfasdf
-adsf
-asd
-as
-a
+a=1;
+b=2;
+
+
